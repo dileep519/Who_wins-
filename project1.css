@@ -1,0 +1,128 @@
+body{
+    position:absolute;
+    box-sizing: border-box;
+    display:table;
+    background:url("https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+#head1{
+    padding-top:0.9vh;
+    transform: translateX(42vw);
+}
+#div1{
+    min-height: 80vh;
+    min-width: 40vw;
+    margin-left:24em;
+    background:url("https://images.pexels.com/photos/953214/pexels-photo-953214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    height:85vh;
+    width:45vw;
+    background-repeat: no-repeat;
+}
+#head2{
+    display: inline-block;
+    font-size:5vh;
+    padding-left:5vw;
+}
+#head3{
+    display: inline;
+    font-size: 5vh;
+    padding-left:12vw;
+}
+#div12{
+    height:8vh;
+    width:8vw;
+    font-size: 8vh;
+    padding-left:18.2vh;
+    padding-right:2.0vw;
+    display:inline;
+}
+#div13{
+    display:inline;
+    height:8vh;
+    width:8vw;
+    font-size: 3em;
+    padding-left:2.7em;
+}
+#div14
+{
+    margin-left:7vw;
+    height:13.7vh;
+    width:5vw;
+    background-color:chartreuse;
+    display:inline-block;
+}
+
+#div15
+{
+    display:inline-block;
+    margin-left: 21vw;
+    background-color:chartreuse;
+    height:13.7vh;
+    width:5vw;
+}
+#div141,#div142{
+    text-align: center;
+}
+#div142{
+    margin-top:0.8em;
+    font-size: 1.9em;
+}
+#div151,#div152{
+    text-align: center;
+}
+#div152{
+    margin-top:1em;
+    font-size: 1.9em;
+}
+#button1{
+    margin-left: 2em;
+    border:0;
+    background-color:goldenrod;
+    font-size: 1em;
+    margin-top: -5em;
+    margin-left: 15em;
+    align-items: center;
+}
+#button2{
+    border:0;
+    font-size: 1em;
+    background-color:goldenrod;
+    margin-top: -3em;
+    margin-left: 19vw;
+    display:inline;
+}
+#ima{
+    display:inline;
+}
+#ima2{
+    margin-top: 1em;
+    margin-left: 5em;
+    margin-bottom: -1.5em;
+    display:inline;
+    border-radius: 15px;
+    width:5em;
+    height:5em;
+}
+#ima3{
+    margin-top:1em;
+    margin-left: 16em;
+    margin-bottom: -1.5em;
+    border-radius: 15px;
+    width:5em;
+    height:5em;
+}
+#divid{
+    height:2vh;
+    width=4vw;
+}
+#reset1{
+    display: inline;
+    height:0.2vh;
+    width:0.5vw;
+    color:black;
+    margin-left: 18.5vw;
+    text-decoration: none;
+}
+#num1{
+    margin-top: 2vh;
+    margin-left:15vw;
+}
